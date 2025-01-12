@@ -9,11 +9,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # BencanaGunungBerapi
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init
-npm start
-npm install bootstrap
-npm install react-router-dom
-npm install axios
-npm install @reduxjs/toolkit react-redux
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init
+- npm start
+- npm install bootstrap
+- npm install react-router-dom
+- npm install axios
+- npm install @reduxjs/toolkit react-redux
 
